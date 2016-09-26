@@ -1,2 +1,2 @@
-Ajout de texte dans ce fichier.
+
 Ajout d'une deuxième ligne de texte.
